@@ -1,0 +1,3 @@
+rootProject.name = 'pushit'
+
+include ':app'
