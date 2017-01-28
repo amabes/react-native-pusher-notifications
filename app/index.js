@@ -40,7 +40,6 @@ export default class App extends Component {
           <Picker.Item label="15" value={15} />
         </Picker>
       </View>
-
     );
   }
 }
